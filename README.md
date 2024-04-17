@@ -6,7 +6,7 @@ This repository contains the source code for a personal portfolio website. The w
 
 ## Demo
 Check out the live demo of the portfolio project at
-https://portfolio-me-wheat.vercel.app/
+https://responsive-portfolio-e75bk4j90-adham-hassans-projects.vercel.app
 
 
 ## Features
@@ -21,13 +21,13 @@ https://portfolio-me-wheat.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/AdhamFares73/portfolioMe
+  git clone https://github.com/AdhamFares73/ResponsivePortfolio
 ```
 
 Go to the project directory
 
 ```bash
-  cd portfolioMe
+  cd ResponsivePortfolio
 ```
 
 
